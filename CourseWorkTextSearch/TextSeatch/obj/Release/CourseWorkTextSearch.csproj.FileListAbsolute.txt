@@ -1,0 +1,10 @@
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\bin\Release\TextSeatch.exe.config
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\bin\Release\TextSeatch.exe
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\bin\Release\TextSeatch.pdb
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\obj\Release\CourseWorkTextSearch.csprojAssemblyReference.cache
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\obj\Release\CourseWorkTextSearch.csproj.ResolveComReference.cache
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\obj\Release\CourseWorkTextSearch.WorkSpace.resources
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\obj\Release\TextSeatch.Properties.Resources.resources
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\obj\Release\CourseWorkTextSearch.csproj.GenerateResource.cache
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\obj\Release\TextSeatch.exe
+C:\Users\Raven\source\repos\TextSeatch\TextSeatch\obj\Release\TextSeatch.pdb
